@@ -131,3 +131,4 @@ elif args.COMMAND == "closest_bike":
 
 else:
     print("That is not a valid command: valid commands are <total_bikes, total_docks, percent_avail, closest_stations, closest_bike>")
+    
