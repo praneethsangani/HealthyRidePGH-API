@@ -3,7 +3,6 @@ Invocation:
 ```
 python3 mybikes.py baseURL command [parameters]  
 ```
-where baseURL is the prefix URL of the source of the data, and it is typically https://api.nextbike.net/maps/gbfs/v1/nextbike_pp/en/.
 
 ### Data Feeds
 Use two data feeds from the HealthyRidePGH General Bikeshare Feed Specification (GBFS) data feed, as follows:
