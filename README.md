@@ -89,4 +89,4 @@ Command=closest_bike
 Parameters=40.444618 -79.954707
 Output=342887, Fifth Ave & S Dithridge St
 ```
-# This was a project for CS1656 at the University of Pittsburgh
+This was a project for CS1656 at the University of Pittsburgh
